@@ -1,1 +1,7 @@
 streamlit
+pillow
+pathlib
+ultralytics
+python-time
+opencv-python
+pytube
